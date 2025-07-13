@@ -17,6 +17,7 @@ A full-stack web application built using **Java Spring MVC**, **Thymeleaf**, **B
 - Bootstrap for basic styling
 - MySQL integration with JPA/Hibernate
 - Basic CRUD functionality
+<<<<<<< HEAD
 
 
 ![img.png](img.png)
@@ -25,3 +26,5 @@ A full-stack web application built using **Java Spring MVC**, **Thymeleaf**, **B
 
 ![img_2.png](img_2.png)
 
+=======
+>>>>>>> 9d52a0f2cc8ebbc3f44929f0417c88aa68a83b8e
