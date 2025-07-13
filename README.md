@@ -23,5 +23,3 @@ A full-stack web application built using **Java Spring MVC**, **Thymeleaf**, **B
 
 ![img_1.png](img_1.png)
 
-![img_2.png](img_2.png)
-
